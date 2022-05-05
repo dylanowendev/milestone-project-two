@@ -1,0 +1,10 @@
+/*-----Basic Background Formatting-----*/
+
+body {
+    background: #feecc8;
+}
+
+h1,h2 {
+    text-align: center;
+}
+
