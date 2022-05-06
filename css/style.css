@@ -39,5 +39,19 @@ h1,h2 {
     width: 800px;
     min-height: 500px;
     box-shadow: 15px 15px 20px  rgba(0, 0, 0, 0.5);
+    padding-right: 20px;
 
+}
+
+/*-----Basic 'Playing Card' Design / Formatting-----*/
+
+.board-bg .p-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #ffa69e;
+    border: #fb6f92 double 5px;
+    width: 100px;
+    height: 140px;
+    box-shadow: 2.5px 5px 5px  rgba(0, 0, 0, 0.5);
 }
